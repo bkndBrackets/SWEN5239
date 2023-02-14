@@ -1,0 +1,11 @@
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\bin\Debug\Project.exe.config
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\bin\Debug\Project.exe
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\bin\Debug\Project.pdb
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.exe
+C:\Users\ep104\OneDrive\Desktop\SWEN5239\Project\Project\obj\Debug\Project.pdb

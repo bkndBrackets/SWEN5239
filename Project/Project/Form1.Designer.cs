@@ -102,9 +102,9 @@
             // button2
             // 
             this.button2.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button2.Location = new System.Drawing.Point(315, 251);
+            this.button2.Location = new System.Drawing.Point(475, 240);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(279, 47);
+            this.button2.Size = new System.Drawing.Size(238, 53);
             this.button2.TabIndex = 6;
             this.button2.Text = "Upload Selected File";
             this.button2.UseVisualStyleBackColor = false;
@@ -122,7 +122,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
-            this.ClientSize = new System.Drawing.Size(891, 626);
+            this.ClientSize = new System.Drawing.Size(891, 654);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label3);
