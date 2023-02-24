@@ -1,0 +1,10 @@
+Id,Book Title,Book Rating,Author Overall Rating,Genre,Format,Availability ,Number of Reviews
+1,Why Has Nobody Told Me This Before?,3.98,3.95,Nonfiction,Audiobook,TRUE,33000
+2,The Maid,3.84,3.54,Mystery,Audiobook/Hardcopy,TRUE,30453
+3,Lessons In Chemistry,4.37,4.37,Fiction,Audiobook/eBook/Hardcopy,TRUE,35323
+4,All Good People Here,3.91,3.85,Fiction,Audiobook/eBook/Hardcopy,FALSE,10357
+5,Thistlefoot,4.02,3.99,Fantasy,Audiobook/eBook,TRUE,1492
+6,The Measure,4.09,4.01,Fiction,Hardcopy,TRUE,7266
+7,The Trayvon Generation,4.38,4.11,Nonfiction,eBook/Hardcopy,FALSE,1225
+8,Jackal,3.65,3.98,Horror,eBook,FALSE,1000
+9,Call Us What We Carry,4.35,4.3,Poetry,Audiobook/Hardcopy,TRUE,2634
